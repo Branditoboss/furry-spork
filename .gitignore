@@ -94,7 +94,8 @@ $(function() {
         }
       });
     } else {
-      $existing_donor_message.hide();
+     	@@ -47,7 +47,7 @@ * fees: $0.045 * donation amount +$0.045
+  * fees: 4.5% $existing_donor_message.hide();
     }
   });
 });
